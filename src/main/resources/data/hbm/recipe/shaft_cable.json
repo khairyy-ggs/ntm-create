@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "CRC",
+    " S ",
+    "CRC"
+  ],
+  "key": {
+    "C": { "item": "minecraft:copper_ingot" },
+    "R": { "item": "minecraft:redstone" },
+    "S": { "item": "create:shaft" }
+  },
+  "result": {
+    "id": "hbm:shaft_cable",
+    "count": 4
+  }
+}

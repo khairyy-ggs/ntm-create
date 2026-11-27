@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ICI",
+    "ASA",
+    "ICI"
+  ],
+  "key": {
+    "I": { "item": "minecraft:iron_ingot" },
+    "C": { "item": "create:andesite_casing" },
+    "A": { "item": "create:andesite_alloy" },
+    "S": { "item": "create:shaft" }
+  },
+  "result": {
+    "id": "hbm:machine_shaft_turbine",
+    "count": 1
+  }
+}

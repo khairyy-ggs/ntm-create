@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "CGC",
+    "PIP",
+    "CGC"
+  ],
+  "key": {
+    "C": { "item": "minecraft:copper_ingot" },
+    "G": { "item": "minecraft:glass" },
+    "P": { "item": "create:fluid_pipe" },
+    "I": { "item": "minecraft:iron_ingot" }
+  },
+  "result": {
+    "id": "hbm:machine_vertical_heat_exchanger",
+    "count": 1
+  }
+}

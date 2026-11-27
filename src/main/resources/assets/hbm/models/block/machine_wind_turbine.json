@@ -1,0 +1,267 @@
+{
+  "ambientocclusion": true,
+  "textures": {
+    "metal": "hbm:blocks/machine_wind_turbine_side",
+    "rotor": "hbm:blocks/machine_wind_turbine_rotor",
+    "hub": "hbm:blocks/machine_wind_turbine_hub",
+    "particle": "hbm:blocks/machine_wind_turbine_side"
+  },
+  "elements": [
+    {
+      "from": [
+        4,
+        0,
+        4
+      ],
+      "to": [
+        12,
+        2,
+        12
+      ],
+      "faces": {
+        "down": {
+          "texture": "#metal"
+        },
+        "up": {
+          "texture": "#metal"
+        },
+        "north": {
+          "texture": "#metal"
+        },
+        "south": {
+          "texture": "#metal"
+        },
+        "west": {
+          "texture": "#metal"
+        },
+        "east": {
+          "texture": "#metal"
+        }
+      }
+    },
+    {
+      "from": [
+        7,
+        2,
+        7
+      ],
+      "to": [
+        9,
+        12,
+        9
+      ],
+      "faces": {
+        "down": {
+          "texture": "#metal"
+        },
+        "up": {
+          "texture": "#metal"
+        },
+        "north": {
+          "texture": "#metal"
+        },
+        "south": {
+          "texture": "#metal"
+        },
+        "west": {
+          "texture": "#metal"
+        },
+        "east": {
+          "texture": "#metal"
+        }
+      }
+    },
+    {
+      "from": [
+        5,
+        11,
+        6
+      ],
+      "to": [
+        11,
+        14,
+        11
+      ],
+      "faces": {
+        "down": {
+          "texture": "#metal"
+        },
+        "up": {
+          "texture": "#hub"
+        },
+        "north": {
+          "texture": "#metal"
+        },
+        "south": {
+          "texture": "#metal"
+        },
+        "west": {
+          "texture": "#metal"
+        },
+        "east": {
+          "texture": "#metal"
+        }
+      }
+    },
+    {
+      "from": [
+        6,
+        10,
+        0
+      ],
+      "to": [
+        10,
+        14,
+        2
+      ],
+      "faces": {
+        "down": {
+          "texture": "#hub"
+        },
+        "up": {
+          "texture": "#hub"
+        },
+        "north": {
+          "texture": "#hub"
+        },
+        "south": {
+          "texture": "#hub"
+        },
+        "west": {
+          "texture": "#hub"
+        },
+        "east": {
+          "texture": "#hub"
+        }
+      }
+    },
+    {
+      "from": [
+        7,
+        2,
+        0
+      ],
+      "to": [
+        9,
+        10,
+        1
+      ],
+      "faces": {
+        "down": {
+          "texture": "#rotor"
+        },
+        "up": {
+          "texture": "#rotor"
+        },
+        "north": {
+          "texture": "#rotor"
+        },
+        "south": {
+          "texture": "#rotor"
+        },
+        "west": {
+          "texture": "#rotor"
+        },
+        "east": {
+          "texture": "#rotor"
+        }
+      }
+    },
+    {
+      "from": [
+        1,
+        10,
+        0
+      ],
+      "to": [
+        7,
+        12,
+        1
+      ],
+      "faces": {
+        "down": {
+          "texture": "#rotor"
+        },
+        "up": {
+          "texture": "#rotor"
+        },
+        "north": {
+          "texture": "#rotor"
+        },
+        "south": {
+          "texture": "#rotor"
+        },
+        "west": {
+          "texture": "#rotor"
+        },
+        "east": {
+          "texture": "#rotor"
+        }
+      }
+    },
+    {
+      "from": [
+        9,
+        10,
+        0
+      ],
+      "to": [
+        15,
+        12,
+        1
+      ],
+      "faces": {
+        "down": {
+          "texture": "#rotor"
+        },
+        "up": {
+          "texture": "#rotor"
+        },
+        "north": {
+          "texture": "#rotor"
+        },
+        "south": {
+          "texture": "#rotor"
+        },
+        "west": {
+          "texture": "#rotor"
+        },
+        "east": {
+          "texture": "#rotor"
+        }
+      }
+    },
+    {
+      "from": [
+        7,
+        10,
+        1
+      ],
+      "to": [
+        9,
+        12,
+        2
+      ],
+      "faces": {
+        "down": {
+          "texture": "#hub"
+        },
+        "up": {
+          "texture": "#hub"
+        },
+        "north": {
+          "texture": "#hub"
+        },
+        "south": {
+          "texture": "#hub"
+        },
+        "west": {
+          "texture": "#hub"
+        },
+        "east": {
+          "texture": "#hub"
+        }
+      }
+    }
+  ]
+}

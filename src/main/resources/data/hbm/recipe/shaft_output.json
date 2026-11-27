@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " I ",
+    "ASA",
+    " I "
+  ],
+  "key": {
+    "I": { "item": "minecraft:iron_ingot" },
+    "A": { "item": "create:andesite_alloy" },
+    "S": { "item": "create:shaft" }
+  },
+  "result": {
+    "id": "hbm:shaft_output",
+    "count": 1
+  }
+}
